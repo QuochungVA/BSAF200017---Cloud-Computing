@@ -6,8 +6,7 @@
 -- Generation Time: May 08, 2018 at 08:38 AM
 -- Server version: 10.1.29-MariaDB
 -- PHP Version: 7.2.0
-CREATE DATABASE IF NOT EXISTS `fashiony_ogs`;
-USE 'fashiony_ogs';
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;

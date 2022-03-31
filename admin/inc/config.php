@@ -6,16 +6,16 @@ ini_set('error_reporting', E_ALL);
 date_default_timezone_set('Asia/Dubai');
 
 // Host Name
-$dbhost = 'localhost';
+$dbhost = 'uyu7j8yohcwo35j3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
 
 // Database Name
-$dbname = 'fashiony_ogs';
+$dbname = 'v6ifhaahrtzwp54v';
 
 // Database Username
-$dbuser = 'root';
+$dbuser = 'qq355hmz6dicg8v7';
 
 // Database Password
-$dbpass = '';
+$dbpass = 'ao6g9k92gpm5k3p2';
 
 // Defining base url
 define("BASE_URL", "http://fashionys.com/");
