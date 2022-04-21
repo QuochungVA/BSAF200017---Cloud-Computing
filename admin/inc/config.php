@@ -15,7 +15,7 @@ $dbname = 'jfydvnlokab9b2ec';
 $dbuser = 'eydubg0fqgoi6uoq';
 
 // Database Password
-$dbpass = 'yj67wleywi9t1odc';
+$dbpass = 'jngj9yjfom1hm1k6';
 
 
 
